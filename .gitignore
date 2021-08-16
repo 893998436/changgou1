@@ -1,0 +1,12 @@
+# Project exclude paths
+/changgou-parent/changgou-common/target/
+/changgou-parent/changgou-eureka/target/
+/changgou-parent/changgou-service/changgou-servcie-canal/target/
+/changgou-parent/changgou-service/changgou-service-content/target/
+/changgou-parent/changgou-service/changgou-service-goods/target/
+/changgou-parent/changgou-service/changgou-service-pay/target/
+/changgou-parent/changgou-service/changgou-service-seckill/target/
+/changgou-parent/changgou-service-api/changgou-service-content-api/target/
+/changgou-parent/changgou-service-api/changgou-service-goods-api/target/
+/changgou-parent/changgou-service-api/changgou-service-seckill-api/target/
+/code-template/target/
